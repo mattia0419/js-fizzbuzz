@@ -1,0 +1,27 @@
+.box{
+    width: calc(100% / 8 - 20px);
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-size: 25px;
+}
+#body{
+    background-color: #083B4C;
+}
+.bg-fizzbuzz{
+    background-color: #F0466F;
+}
+.bg-fizz{
+    background-color: #0CD6A1;
+}
+.bg-buzz{
+    background-color: #FFD166;
+}
+.bg-normal{
+    background-color: #1389B2;
+}
+.big{
+    font-size: 100px;
+}
